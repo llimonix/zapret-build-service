@@ -1,7 +1,7 @@
 ## Добавлен запуск и создание службы без необходимости запущенной консоли
 
 ## Всё максимально просто:
-1. Скачиваем архив с zapret: [https://archive.org/download/zapret-winws/zapret-winws.zip](https://github.com/ImMALWARE/zapret-windows-build/archive/refs/heads/master.zip)
+1. Скачиваем архив с zapret: [https://archive.org/download/zapret-winws/zapret-winws.zip](https://github.com/llimonix/zapret-build-service/archive/refs/heads/main.zip)
 2. Распаковываем в какую-нибудь папку (например, C:\zapret)
 > Если хотите, чтобы на экране не было консоли, запускаем service.cmd (service_dsyt.cmd, если нужен только ютуб и дискорд) через ПКМ > От имени администратора. Служба запущена и успешно работает 
 
